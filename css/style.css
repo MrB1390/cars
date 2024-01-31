@@ -1,0 +1,18 @@
+ h1 {
+        color: gold !important;
+        font-family: 'Condiment', serif;
+        text-align: center;
+    }
+body{
+    background-color: rgb(3, 26, 46) !important;
+}
+.quotes{
+    width: 80vw;
+    height: auto;
+    border: 2px solid black;
+    margin: auto;
+}
+.button1{
+  display: flex;
+  flex-direction: column;
+}
